@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppy of a letter to Generall Monck.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80495</idno>
+            <idno type="STC">Wing C6163</idno>
+            <idno type="STC">Thomason E1016_13</idno>
+            <idno type="STC">ESTC R208275</idno>
+            <idno type="EEBO-CITATION">99867235</idno>
+            <idno type="PROQUEST">99867235</idno>
+            <idno type="VID">168790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168790)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1016[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppy of a letter to Generall Monck.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Marsh 6. 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168790:1" rendition="simple:additions"/>
+            <p>THE COPPY OF A LETTER to <hi>Generall</hi> Monck.</p>
+            <p>
+               <hi>London,</hi> Printed, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:168790:2"/>
+            <head>The Copy of a Letter to General <hi>Monck.</hi>
+            </head>
+            <opener>
+               <salute>My Honoured Lord;</salute>
+            </opener>
+            <p>THough vertuous inclinations in their Infancy and Cradle, are beſt Nurſed up with the Milk of Flattery and ſeeming Courtſhips; your full grown virtues (which like <hi>Saul</hi> amongſt the people, make you more eminent than others; and the eyes of our <hi>Iſrael</hi> to look upon you, as their Deliverer) will bear a more engenuous freedome; which makes me preſume (though none more truly honours your Prudence, Piety and Perſon than my ſelf) as I am here intruſted to receive the correſponding intelli<g ref="char:EOLhyphen"/>gences from moſt Counties that have concentred their Hopes and Addreſſes in your Lordſhip, you will Pardon me; if (as the burning-glaſſe that col<g ref="char:EOLhyphen"/>lects the ſcattered and looſe beams of the Sun, to give them a more powerfull and vigorous operation) I reflect the united ſenſe of all to you; in relation to your Words and Actings.</p>
+            <p>The laſt of which, have been ſo prudent in Con<g ref="char:EOLhyphen"/>duct; ſo daring (yet modeſt) in the approaches to your propoſed ends; and ſo ſucceſsfull in the great late changes, we look upon, as inlets to a ſettlement of the peace and happineſſe of this Kingdome; as you ſtand yet unequalled by any in the opinions and affections of the people, even above men; and one<g ref="char:EOLhyphen"/>ly below God himſelf (and our rightfull King) who hath wrought ſo great wonders by you: And we
+<pb n="3" facs="tcp:168790:2"/>hope will ſet faſt the bars of our gates, and eſtabliſh peace in our borders by ſo glorious an Inſtrument; and in it record your memory to all poſterity, as the deliverer of this Nation from the high Uſurpation and ſevere Tyranny we have long laboured under.</p>
+            <p>But my Lord in relation to your words, and De<g ref="char:EOLhyphen"/>clared deſires to the late reſtored Members of Parlia<g ref="char:EOLhyphen"/>ment, there are few ſatisfied, but ſuch as hope, that with <hi>Frederick</hi> Duke of <hi>Austria,</hi> you went abroad in a diſguiſe to hear what others judgements were; by them and their reaſons (if convincing yours) to ſhape your future proceedings; or (if it were your judge<g ref="char:EOLhyphen"/>ment) that you did declare and enforce it withall the advantage Oratory or Arguments could contribute to its ſupport; that in the confutation of them all per<g ref="char:EOLhyphen"/>ſons of thoſe miſtaken principles might be reduced by your example; who eſpouſes no intereſt but in order to Gods glory and the publick good; nor im<g ref="char:EOLhyphen"/>poſe your opinion upon, but ſubmit it to the diſpaſ<g ref="char:EOLhyphen"/>ſionate Debates and Reſolutions) of a Free Parlia<g ref="char:EOLhyphen"/>ment, which humility and ſelf-denial is the crown and glory of all your other noble Actions; and that which ſets you up a Scepter in the hearts of all (but Factious and Fanatick people) and gives you a Com<g ref="char:EOLhyphen"/>mand of our Perſons and Purſes.</p>
+            <p>Yet give me leave, as the Eccho of the Kingdomes voice; to tell your Lordſhip, it neither is, or ever was, for the alteration of our Monarchicall Govern<g ref="char:EOLhyphen"/>ment into Common-wealth foundations, which are inconſiſtent with our ancient Fundamentall Laws, and the humour of the people of this Nation; who comparing the long happy and flouriſhing condition
+<pb n="4" facs="tcp:168790:3"/>it hath for many hundred years enjoyed under their Kings, and Reverent Epiſcopacy, with the tragicall effects of our late changes; cannot be in love with their Irons and Shackles; nor be willing to ſubmit to Papall. Presbyteriall Tyranny (for ſuch is rigid Presbytery) that have been acquainted with the gentler Yoke; the Fathers of our Church laid upon us.</p>
+            <p>And though I might make it appear to your Lord<g ref="char:EOLhyphen"/>ſhip by clear proofs, and undiſputed authorities from Reaſon, Nature, Scripture, and Authority.</p>
+            <p>Firſt, <hi>that as all Power is Gods, ſo there is no exerciſe of it from divine Commiſſion, but (paternal) what is ſea<g ref="char:EOLhyphen"/>ted in the perſon of one man originally; and derivative<g ref="char:EOLhyphen"/>ly onely from him (as the ſpring and ſource) into the leſſer streames of ſubordinate administrations (which</hi> Adam <hi>was vested in the ſtate of innocency;) and that all men are borne to this naturall ſubordination; for the orderly ſupport of humane ſocieties, (families being the epitomies of Kingdomes) wherein the perſon to whome the ſupreame power belongs, is onely accountable to God for his Actions (Kings being ſubject onely to the dire<g ref="char:EOLhyphen"/>ction not coaction of humane Laws.</hi>
+            </p>
+            <p>Secondly, <hi>That our Kings had this right justly con<g ref="char:EOLhyphen"/>veyed to them by the grace of God (not gift of man) and by it have a just title to our allegiance and obedience, both by divine and civill right, as all our laws and Par<g ref="char:EOLhyphen"/>liaments have declared.</hi>
+            </p>
+            <p>Thirdly, <hi>That King</hi> Charles <hi>the ſon (of his late glo<g ref="char:EOLhyphen"/>rious Father and our Soveraign) hath</hi> de jure; <hi>the ſame; and cannot without Rebellion (a ſin as high as that of witch-craft) be denied him.</hi>
+            </p>
+            <pb n="5" facs="tcp:168790:3"/>
+            <p>Fourthly, <hi>That Epiſcopacy is of divine institution an order deduced through all ages of Chriſts Church; and continued to us by lawfull and undoubted ordinati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>Fifthly, <hi>That Biſhops have in all ages had Reverence payed them as the Pillers and ſupporters of Chriſtianity; by their pious learned and painfull labours; when living and propagating it when dead; by their bloodſhed in Martyrdom; when one dying man made many living Saints.</hi>
+            </p>
+            <p>Sixthly, <hi>That it was not the Calling? but exorbitan<g ref="char:EOLhyphen"/>cies in it; not the Tree, but the Luxurious branches theſe times at firſt complained of; and deſired to prune, not digg up.</hi>
+            </p>
+            <p>Seventhly, <hi>That it was a Government admired and approved by all the reformed Churches abroad, as eſſential to the</hi> bene eſſe <hi>of a Church; and by many learned di<g ref="char:EOLhyphen"/>vines (antient and modern) to the</hi> eſſe, <hi>the very being of a Church.</hi>
+            </p>
+            <p>Eighthly, <hi>That Presbytery as propounded by our Sy<g ref="char:EOLhyphen"/>nod of Divines is of a bastard extraction, and a late birth; being a ſtranger to antiquity; and an action late<g ref="char:EOLhyphen"/>ly legitimated amongſt us; a thing ſo far from being countenanced; as it was never known in the Chriſtian Church.</hi>
+            </p>
+            <p>Yet waving all theſe and infinite more conſidera<g ref="char:EOLhyphen"/>tions, I could offer (humbly caſting my ſelf upon your mercy for a pardon of this deviations) I ſhall not ſo much reflect upon your Lordſhips reaſons againſt in<g ref="char:EOLhyphen"/>troducing Monarchy and Epiſcopacy; as to ſhew you they were never taken away by any juſt power; (ad<g ref="char:EOLhyphen"/>mit it were in the late Parliament, when full and Free,
+<pb n="6" facs="tcp:168790:4"/>for untill ſeverall forces and violences were acted upon them and the Secluded Members denied their Votes; There was no Regicide, (no murthering of the heirs that the Vineyard might be ours) no Votes for altering our antient (and beſt fabricated Govern<g ref="char:EOLhyphen"/>ment in the world) but on the contrary all the Par<g ref="char:EOLhyphen"/>liaments Proteſtations, Declarations, Actions, and Covenants were for King and Parliament, <hi>Conjun<g ref="char:EOLhyphen"/>ctim</hi> not <hi>diviſim;</hi> and were ſo intended to be adhered to by our Confeſſours (though not Martyrs) the lately reſtored Members; and only ſurviving honou<g ref="char:EOLhyphen"/>rable mention of that expired Parliament.</p>
+            <p>Nor did the people of this Nation ever volunta<g ref="char:EOLhyphen"/>rily contribute either of their perſons or purſes to o<g ref="char:EOLhyphen"/>ther ends than the Parliament had declared, even a confining of arbitrary power, and keeping all things in their own bounds and channels, a reforming, a<g ref="char:EOLhyphen"/>mending the Watch, not the taking it in pieces.</p>
+            <p>So as the peoples intereſts in this are ſafe, but cannot be entituled to the indeavours of the chaines you mention without a juſt forfeiture of all they en<g ref="char:EOLhyphen"/>joy; a maintaining of perpetuall diviſions at home and inviting War from the injured perſons, and their now powerfull united confederates abroad; ha<g ref="char:EOLhyphen"/>ving no Free nor Full Parliament to countenance them in ſuch actings.</p>
+            <p>And that this was the ſenſe, the Covenant was ta<g ref="char:EOLhyphen"/>ken in, and of the Kingdome now in Generall; I deſire may be ſubmitted to their Votes in the free Reproſentative to be called, or that they may have a Ballet for it, and then they will appear a hundred for one to make it good.</p>
+            <pb n="7" facs="tcp:168790:4"/>
+            <p>Nor is the glory of the City, and opening of Trade at home and abroad, to be boyed up by any other Engine than what the name of King actuates: It being the ſplendor of Courts, encreaſe of Nobility, Amities abroad, and Peace at home, that loades the Vine with Cluſters, and makes the Wine-preſs to o<g ref="char:EOLhyphen"/>verflow; as <hi>Londons</hi> experience evincingly may prove, if we compare their now withering and for<g ref="char:EOLhyphen"/>merly ſprouting and flouriſhing condition together; ſo as a Common-wealth in thoſe and many other re<g ref="char:EOLhyphen"/>ſpects would rather prove a heightening to the diſ<g ref="char:EOLhyphen"/>eaſe than a remedy.</p>
+            <p>And for the Government of the Church, ſo far as it is prudentiall, it ought to be ſubmitted to the Par<g ref="char:EOLhyphen"/>liament and a Convocation of Divines (juſtly called) but what is of Divine Right in it, ought to be pre<g ref="char:EOLhyphen"/>ſerved and preferred before our Lives and Liberties.</p>
+            <p>And therefore I moſt humbly contend for Epiſco<g ref="char:EOLhyphen"/>pacy; as an order at leaſt (if not to maintain it in its primitive glory; and in that none can be ſure there is a good Ordination without it (unleſſe in caſe extra<g ref="char:EOLhyphen"/>ordinary) and that all doe agree the Ordination by Biſhops lawfull; we ought to chuſe a ſafe before a doubtfull way, as all Caſuiſts agree.</p>
+            <p>However, having fully as I conceive, undermin'd the grounds and ſatisfied the reaſons, your Lordſhip laid and urged for a Common-wealth; I ſhall pro<g ref="char:EOLhyphen"/>ceed no further upon this head, ſince you have made my Concluſion; <hi>That Epiſcopacy holds beſt proportion and ſemetry to Monarchicall Government;</hi> and that I have made it appear, there neither is, nor can be any other form juſtly introduced into this Nation.</p>
+            <pb n="8" facs="tcp:168790:5"/>
+            <p>Yet to take in all Intereſts, and concenter them in a conſcientious obedience (the ſinew of Govern<g ref="char:EOLhyphen"/>ment) I wiſh both may be ſo moderated in their ex<g ref="char:EOLhyphen"/>erciſe of power, as there may be no more leading into captivity, nor complaining in our ſtreets; But that the King with his Parliament, and the Biſhops with their Presbyters may joyn to make the cloſe of our Harmony moſt melodious.</p>
+            <p>For thus our King will have an inexhauſtible trea<g ref="char:EOLhyphen"/>ſure in the affections of his People; and they beſt ſecure their Liberties in becoming their Soveraignes favourites; which happy eſpouſals, I will yet hope to ſee you ſolemnize it in a Concurrence with the whole Nation; whoſe deſire it is as well as the Prayer of;</p>
+            <closer>
+               <signed>Your Excellencies moſt humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
